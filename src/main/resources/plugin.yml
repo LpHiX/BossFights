@@ -1,0 +1,4 @@
+name: BossFights
+version: '${project.version}'
+main: me.lphix.bossfights.BossFightsPlugin
+api-version: 1.18
